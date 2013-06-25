@@ -21,6 +21,9 @@ Status of all the Dimagi projects building on Travis-CI.
 [![PyPi version](https://pypip.in/v/commcare-export/badge.png)](https://pypi.python.org/pypi/commcare-export)
 [![PyPi downloads](https://pypip.in/d/commcare-export/badge.png)](https://pypi.python.org/pypi/commcare-export)
 
+**[CouchExport](https://github.com/dimagi/couchexport)**    
+[![Build Status](https://travis-ci.org/dimagi/couchexport.png?branch=master)](https://travis-ci.org/dimagi/couchexport/)
+
 **[CouchForms](https://github.com/dimagi/couchforms)**    
 [![Build Status](https://travis-ci.org/dimagi/couchforms.png)](https://travis-ci.org/dimagi/couchforms)
 [![Test coverage](https://coveralls.io/repos/dimagi/couchforms/badge.png?branch=master)](https://coveralls.io/r/dimagi/couchforms)
